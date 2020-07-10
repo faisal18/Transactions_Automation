@@ -20,6 +20,7 @@ namespace Transactions_Automation
             XmlDocument xdoc = new XmlDocument();
             try
             {
+
                 xdoc.Load(path + "credentials_automation.xml");
                 string query = string.Format("//*[@name='{0}']", account);
                 Logger.Info("Fetching account details for " + account);
