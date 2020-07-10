@@ -1,0 +1,65 @@
+2017-10-09 12:58:43,148:  Process started for NE - Payer Service
+2017-10-09 12:58:43,188:  Fetching account details for NE_Payer
+2017-10-09 12:58:59,023:  Process started for NE - Payer Service
+2017-10-09 12:58:59,191:  Fetching account details for NE_Payer
+2017-10-09 12:59:47,992:  Process started for NE - Payer Service
+2017-10-09 12:59:48,019:  Fetching account details for NE_Payer
+2017-10-09 13:01:22,378:  Process started for NE - Payer Service
+2017-10-09 13:01:22,402:  Fetching account details for NE_Payer
+2017-10-09 13:01:39,896:  Process started for NE - Payer Service
+2017-10-09 13:01:39,922:  Fetching account details for NE_Payer
+2017-10-09 13:02:41,975:  Process started for NE - Payer Service
+2017-10-09 13:02:42,003:  Fetching account details for NE_Payer
+2017-10-09 13:02:54,356:  Process started for NE - Payer Service
+2017-10-09 13:02:54,382:  Fetching account details for NE_Payer
+2017-10-09 13:07:02,934:  Process started for NE - Payer Service
+2017-10-09 13:07:02,996:  Fetching account details for NE_Payer
+2017-10-09 13:08:17,231:  Process started for NE - Payer Service
+2017-10-09 13:08:17,259:  Fetching account details for NE_Payer
+2017-10-09 13:08:49,753:  Process started for NE - Payer Service
+2017-10-09 13:08:49,788:  Fetching account details for NE_Payer
+2017-10-09 13:11:10,802:  Process started for NE - Payer Service
+2017-10-09 13:11:10,865:  Fetching account details for NE_Payer
+2017-10-09 13:14:56,140:  Process started for NE - Payer Service
+2017-10-09 13:14:56,167:  Fetching account details for NE_Payer
+2017-10-10 13:24:13,926:  Process started for DHPO
+2017-10-10 13:24:13,960:  Fetching account details for DHPO
+2017-10-10 13:24:15,868:  Started Get New Prior Authourization Transaction
+2017-10-10 13:24:16,763:  Found Transactions
+2017-10-10 13:24:16,769:  Process started for FileID:ffde5af8-8a19-4c34-bc9d-e031c50b3527 FileName:
+2017-10-10 13:24:17,695:  Exception Occured ! Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2017-10-10 13:24:17,704:  Failiure Occured ! Storing Transaction+ffde5af8-8a19-4c34-bc9d-e031c50b3527
+2017-10-10 13:24:17,710:  Process started for FileID:95c93211-c23d-47ce-9fcf-a569c8752083 FileName:DHA-F-0047560-INS012-MA020849_PRODUCTION.xml
+2017-10-10 13:24:19,083:  Exception Occured ! Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2017-10-10 13:24:19,087:  Failiure Occured ! Storing Transaction+95c93211-c23d-47ce-9fcf-a569c8752083
+2017-10-10 13:24:19,089:  Process started for FileID:82695405-05a1-42c2-aedb-2d90cd9b4d0f FileName:141281-7d82cb96-bc5f-4920-a98b-197a77361fd5.xml
+2017-10-10 13:24:19,362:  Exception Occured ! Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2017-10-10 13:24:19,370:  Failiure Occured ! Storing Transaction+82695405-05a1-42c2-aedb-2d90cd9b4d0f
+2017-10-10 13:24:19,376:  Process started for FileID:f4f12859-0206-44aa-a490-cf545675056b FileName:141281-8c3b1b2f-979e-43ba-bcb5-3d706399c305.xml
+2017-10-10 13:24:19,553:  Exception Occured ! Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2017-10-10 13:24:19,557:  Failiure Occured ! Storing Transaction+f4f12859-0206-44aa-a490-cf545675056b
+2017-10-10 13:24:19,559:  Process started for FileID:bec10c51-351f-4229-ab8a-ad5be2db4d43 FileName:PBM_PR_DHA-F-0000704_INS012_1_1507627429938.xml
+2017-10-10 13:24:45,958:  Process started for DHPO
+2017-10-10 13:24:45,987:  Fetching account details for DHPO
+2017-10-10 13:24:48,002:  Started Get New Prior Authourization Transaction
+2017-10-10 13:24:48,723:  Found Transactions
+2017-10-10 13:24:48,727:  Process started for FileID:0fd72c16-b471-43b8-bbe4-984776f7fd2a FileName:
+2017-10-10 13:25:38,220:  Process started for DHPO
+2017-10-10 13:25:38,263:  Fetching account details for DHPO
+2017-10-10 13:25:40,665:  Started Get New Prior Authourization Transaction
+2017-10-10 13:25:41,698:  Found Transactions
+2017-10-10 13:25:41,708:  Process started for FileID:ba621652-1496-4e66-8bf7-d21cafe212c3 FileName:
+2017-10-10 13:27:12,560:  Process started for DHPO
+2017-10-10 13:27:12,594:  Fetching account details for DHPO
+2017-10-10 13:27:12,609:  Started Get New Prior Authourization Transaction
+2017-10-10 13:27:13,289:  Found Transactions
+2017-10-10 13:27:13,296:  Process started for FileID:fcc2e6e0-88ba-4f18-9b3b-eb58c857388d FileName:
+2017-10-10 13:30:29,205:  Process started for DHPO
+2017-10-10 13:30:29,269:  Fetching account details for DHPO
+2017-10-10 13:30:29,274:  Started Get New Prior Authourization Transaction
+2017-10-10 13:30:30,512:  Found Transactions
+2017-10-10 13:30:30,517:  Process started for FileID:8e504789-884e-434f-be1d-53851a23bc28 FileName:
